@@ -4,6 +4,7 @@
   "keywords": ["polygon clipping", "polygon boolean operations", "polygon union", "polygon intersection",
     "polygon difference", "polygon xor", "geography", "martinez polygon algorithm", "martinez php"],
   "type": "library",
+  "version": "1.0",
   "authors": [
     {
       "name": "Dmitry Kubitsky",
